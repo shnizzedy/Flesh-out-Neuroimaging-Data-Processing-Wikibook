@@ -6,6 +6,7 @@ Flesh out the ["Neuroimaging Data Processing" Wikibook](https://en.wikibooks.org
 * ["Neuroimaging Data Processing"](https://en.wikibooks.org/wiki/Neuroimaging_Data_Processing) (*Wikibooks*)
 * ["Guidelines"](https://en.wikibooks.org/wiki/Wikibooks:Policies_and_guidelines#Guidelines) (*Wikibooks*:Policies and guidelines)
 * ["Please do not bite the newcomers"](https://en.wikibooks.org/wiki/Wikibooks:Please_do_not_bite_the_newcomers) (*Wikibooks*)
+* ["Manual of Style"](https://en.wikibooks.org/wiki/Wikibooks:Manual_of_Style) (*Wikibooks*)
 
 </div>
 <div style="list-style-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/12px-Font_Awesome_5_brands_github.svg.png');" markdown="1">
