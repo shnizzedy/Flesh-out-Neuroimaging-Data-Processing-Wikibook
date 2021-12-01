@@ -7,6 +7,9 @@ Flesh out the ["Neuroimaging Data Processing" Wikibook](https://en.wikibooks.org
 * ["Guidelines"](https://en.wikibooks.org/wiki/Wikibooks:Policies_and_guidelines#Guidelines) (*Wikibooks*:Policies and guidelines)
 * ["Please do not bite the newcomers"](https://en.wikibooks.org/wiki/Wikibooks:Please_do_not_bite_the_newcomers) (*Wikibooks*)
 * ["Manual of Style"](https://en.wikibooks.org/wiki/Wikibooks:Manual_of_Style) (*Wikibooks*)
+* ["How to Structure a Wikibook"](https://en.wikibooks.org/wiki/Using_Wikibooks/How_To_Structure_A_Wikibook) (*Using Wikibooks*)
+* ["Contributing to an Existing Wikibook"](https://en.wikibooks.org/wiki/Using_Wikibooks/Contributing_To_An_Existing_Wikibook) (*Using Wikibooks*)
+* [Version](https://en.wikibooks.org/w/index.php?title=Special:Version) (*Wikibooks*)
 
 </div>
 <div style="list-style-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/12px-Font_Awesome_5_brands_github.svg.png');" markdown="1">
