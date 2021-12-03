@@ -19,3 +19,5 @@ Flesh out the ["Neuroimaging Data Processing" Wikibook](https://en.wikibooks.org
 * [Brainhack Global NYC issue](https://github.com/brainhacknyc/2021/issues/6)
 
 </div>
+
+* [outline](https://docs.google.com/document/d/1US29GFF5G2bYssif7V_ApxoYdPnApSV4UXnVR5qNS3I)
